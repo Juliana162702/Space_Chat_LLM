@@ -31,7 +31,7 @@ O backend utiliza a API do OpenRouter para gerar as respostas da IA, enquanto o 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://seu-repositorio.git
+git clone https://github.com/Juliana162702/Space_Chat_LLM
 cd seu-repositorio
 
 2. Configurar o backend
